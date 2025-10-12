@@ -28,7 +28,6 @@ The single largest barrier to higher accuracy is the **ambiguity of the 'Draw' o
 
 | File Name | Description | Models Covered |
 | :--- | :--- | :--- |
-| `ml project soccer.pdf` | The foundational research paper and problem statement. | Context |
 | `Logistic_regression_with_tie.ipynb` | **Primary Notebook.** Multi-class SoftMax LogReg implementation and best result. | SoftMax LogReg |
 | `Logistic_regression.ipynb` | Experiment notebook for binary classification (Draws removed). | LogReg (Binary) |
 | `Neural_Net.ipynb` | Implementation and tuning of the Neural Network (MLPClassifier). | Neural Network |
