@@ -103,7 +103,7 @@ pip install numpy matplotlib scikit-learn seaborn jupyter
     Start by cloning the project files from your GitHub repository to your local machine:
     ```bash
     git clone (https://github.com/Pratheek22/EPL_predictions)
-    cd EPL-predictions
+    cd EPL_predictions
     ```
 
 2.  **Verify Data:**
