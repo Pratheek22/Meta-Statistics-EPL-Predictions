@@ -34,7 +34,6 @@ The single largest barrier to higher accuracy is the **ambiguity of the 'Draw' o
 | `Softmax_Gaussian_SVM_F1.ipynb` | Notebook exploring GDA and SVM performance with Feature Set 1 (Basic). | GDA, SVM |
 | `Softmax_Gaussian_SVM-F2.ipynb` | Notebook exploring GDA and SVM performance with Feature Set 2. | GDA, SVM |
 | `Softmax_Gaussian_SVM-F3.ipynb` | Notebook exploring GDA and SVM performance with Feature Set 3. | GDA, SVM |
-| `match_vectors_extended.csv` | Placeholder for the core dataset used for training and testing. | Data |
 
 ---
 
