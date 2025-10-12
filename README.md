@@ -56,8 +56,8 @@ Demonstrates that removing 'Draw' class substantially improves prediction reliab
 Confirms the 'Draw' class is the primary constraint on multi-class accuracy
 
 
-Core Finding
-The single largest barrier to prediction accuracy is the inherent ambiguity of the 'Draw' result.
+**Core Finding
+The single largest barrier to prediction accuracy is the inherent ambiguity of the 'Draw' result.**
 
 Draw outcomes are extremely difficult to distinguish from marginal Win/Loss cases across all model architectures
 The 20+ percentage point improvement when predicting binary outcomes (Win/Loss only: 76.36%) versus multi-class (Win/Draw/Loss: ~55%) quantifies this challenge
