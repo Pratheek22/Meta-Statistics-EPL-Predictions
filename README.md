@@ -1,4 +1,4 @@
-\# EPL Match Outcome Prediction: Gaining a Statistical Edge using Machine Learning
+## EPL Match Outcome Prediction: Gaining a Statistical Edge using Machine Learning
 
 This repository contains the source code and notebooks for the Machine Learning Mini-Project (UE23CS352A), focusing on predicting the outcome (Win, Draw, or Loss) of English Premier League (EPL) soccer matches.
 
