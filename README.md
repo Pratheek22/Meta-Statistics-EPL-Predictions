@@ -98,3 +98,12 @@ The study demonstrates that **parsimonious models** leveraging aggregated team m
 
 ---
 
+
+🎓 Academic Acknowledgment
+
+Reference:
+“Gaining a Statistical Edge in Soccer Prediction using Machine Learning: Role of Meta Statistics in Match Prediction”
+by Varun Harbola and Kyuho Lee (Stanford University).
+Their original research and dataset served as the foundation and reference for this implementation.
+
+---
