@@ -93,6 +93,7 @@ The study demonstrates that **parsimonious models** leveraging aggregated team m
 ## 🧑‍💻 Authors
 
 **Pratheek J Gowda** - PES1UG23CS448
+
 **Rachana R** - PES1UG23CS459
 
 ---
